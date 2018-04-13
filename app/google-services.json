@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "13521933602",
+    "firebase_url": "https://dehradun-transportation-system.firebaseio.com",
+    "project_id": "dehradun-transportation-system",
+    "storage_bucket": "dehradun-transportation-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13521933602:android:42b0b1c757871131",
+        "android_client_info": {
+          "package_name": "com.example.smartcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13521933602-u4ghmh61nu13mdqq3bag9hsahcnbmjue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartcity",
+            "certificate_hash": "196d7972258f35ee18d00115f46abd941f1c516d"
+          }
+        },
+        {
+          "client_id": "13521933602-pc24p24s5nckigssbf8578aonql6g2dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnHaO0IjeFpmVmHTHZjXl4Embs4UzsOK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13521933602-pc24p24s5nckigssbf8578aonql6g2dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
